@@ -1,6 +1,8 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
 
+import { Provider1 } from '../../providers/provider1';
+
 /**
  * Generated class for the Page8 page.
  *
